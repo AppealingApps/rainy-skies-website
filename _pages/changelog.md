@@ -7,6 +7,27 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 1.0.3**
+Ahoy, app aficionados! This update is jam-packed with fixes and tweaks. Let's dive into the changes:
+
+Fixes:
+- We've mastered the art of instant weather metamorphosis. Toggle those temperature units, and watch the numbers change faster than our Michigan weather.
+- Fixed selecting hours on the hourly detail screen now changes the info data properly – It was a bit like trying to teach a cat to fetch. But fear not, the hourly details now obey your taps like a well-trained butler.
+- Fixed free version location limit alert now shows up at the right time and ISN'T IN ALL CAPS – We realized the alert was shouting at you like an overexcited sports commentator. It's now speaking in a more civilized lowercase tone.
+- Fix weather pull date – Our weather pull date footer has been a bit of a time traveler itself, jumping back and forth. Apologies for any confusion; we've grounded it and sorted out its timeline issues.
+- Fix the "Member Since" date text for subscribers – It turns out, our app was a little confused about its age. It's not Benjamin Button; we've corrected the "Member Since" date to reflect your subscription's true age.
+
+So there you have it, brave users! This update is like a magician's hat—full of fixes, surprises, and maybe even a rabbit or two. Keep enjoying the app, and remember, if you find any more quirks, consider them part of the charm. Stay quirky!
+
+And of course, your dad joke for this update:
+
+My wife said I should do lunges to stay in shape...
+...
+...
+...
+That would be a big step forward!
+
+### `Previously`
 # **Version 1.0.2**
 Hey there, fearless app explorers! We're back with our first little app update, and this one's all about your senses. Get ready to feel the app like never before.
 
@@ -39,6 +60,5 @@ Why don't skeletons fight each other?
 
 Because they don't have the guts!
 
-### `Previously`
 # **Version 1.0**
 The initial release of the app! Has the weather screen, supports Apple Weather, looks pretty good 😏
