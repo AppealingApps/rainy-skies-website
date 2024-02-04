@@ -6,8 +6,47 @@ include_in_header: true
 
 <br>
 
-### `Latest`
-# **Version 1.0.3**
+### <a name="roadmap"></a>[`Roadmap`](#roadmap)
+# <a name="1.1.0"></a>**[Version 1.1.0](#1.1.0)** (In Beta)
+##### Highlighted Changes
+* New Free App Icon “Bold White” — We’ve introduced a fresh app icon that’s bolder than a banana trying to impress its peel. It’s so white that it makes snowflakes jealous. Plus, it’s free! 
+* Locations Sync Between Devices — Your weather preferences are now more synchronized than a perfectly choreographed rain dance.
+* iPad Split View: Weather and Locations — It’s like having a meteorologist and a GPS navigator co-hosting a reality show. Tune in for the drama!
+* “What’s New” Screen — We’ve added a “What’s New” screen because everyone deserves a little suspense in their weather app experience. It’s like opening a fortune cookie, but instead of lucky numbers, you get juicy app updates. Spoiler alert: It’s all about the weather (and maybe a sprinkle of magic).
+* Custom Widget Locations — Widgets now let you set custom locations. Want to know the weather at the North Pole? Done. Curious about conditions on Mars? Well...we can't do that...yet.
+
+##### Other Changes
+* Paywall Upgrade: Now with Pizzazz! — Our paywall has undergone a transformation. It’s no longer a dull toll booth; it’s a glittering gateway to premium features.
+* Settings Screen Shuffle — We reorganized the settings screen like a game of musical chairs. It’s sleeker, snazzier, and more intuitive.
+* Subscription Sleuth Mode — We’re now Sherlock Holmes for subscriptions. If we suspect you’ve subscribed, we’ll discreetly investigate. Expect a polite inquiry: “Excuse me, dear user, do you have a subscription? Mind if we restore it on your new device?” Elementary, my dear Watson.
+* Dot-Dot-Who's-There? — New app icons now wear a tiny dot until you give them attention. It’s like they’re saying, “Hey, I’m here! Look at me!” Treat them kindly; they’re sensitive. And remember, every time you ignore an icon, a pixel sheds a tear.
+
+##### Bug Fixes
+* Chart Bugs Squashed — Our charts were acting glitchier than a robot doing the cha-cha. But fear not! We’ve debugged them faster than a caffeine-fueled programmer during a hackathon. Now your weather graphs are smoother than a jazz sax solo.
+* Weather Alerts: No More Hide-and-Seek — Weather alerts were playing peekaboo, hiding from the screen like mischievous sprites. We’ve scolded them and put them back where they belong. Now you’ll know about storms, rainbows, and unicorn sightings in real-time.
+* Farewell, “Location 1” Mystery
+* Various other bits and bobs
+
+Why did the scarecrow win an award? Because he was outstanding in his field!
+
+Remember, our app is like a weather wizard’s spellbook—full of surprises, enchantments, and occasional hiccups. Enjoy the updates, and may your forecasts be as accurate as a cat predicting rain (which is to say, not very). Happy weather-watching!
+
+<br>
+
+### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="1.0.4"></a>**[Version 1.0.4](#1.0.4)**
+Happy Holidays! The only new item in this update is a Christmas 2023 app icon for subscribed users. I have some great new updates in the works that I think you'll really love. Best of wishes to you and your families during this holiday season, and I'm praying for a wonderful new year for all of you.
+
+And, of course, here's your joke of the update!
+
+How much did Santa pay for his sleigh?
+...
+...
+...
+Nothing. It was on the house.
+
+### `Previously`
+# <a name="1.0.3"></a>**[Version 1.0.3](#1.0.3)**
 Ahoy, app aficionados! This update is jam-packed with fixes and tweaks. Let's dive into the changes:
 
 Fixes:
@@ -27,8 +66,7 @@ My wife said I should do lunges to stay in shape...
 ...
 That would be a big step forward!
 
-### `Previously`
-# **Version 1.0.2**
+# <a name="1.0.2"></a>**[Version 1.0.2](#1.0.2)**
 Hey there, fearless app explorers! We're back with our first little app update, and this one's all about your senses. Get ready to feel the app like never before.
 
 ##### Features:
@@ -60,5 +98,5 @@ Why don't skeletons fight each other?
 
 Because they don't have the guts!
 
-# **Version 1.0**
+# <a name="1.0.0"></a>**[Version 1.0.0](#1.0.0)**
 The initial release of the app! Has the weather screen, supports Apple Weather, looks pretty good 😏
