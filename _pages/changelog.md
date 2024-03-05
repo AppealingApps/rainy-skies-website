@@ -6,8 +6,10 @@ include_in_header: true
 
 <br>
 
-### <a name="roadmap"></a>[`Roadmap`](#roadmap)
-# <a name="1.1.0"></a>**[Version 1.1.0](#1.1.0)** (In Beta)
+<!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
+
+### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="1.1.0"></a>**[Version 1.1.0](#1.1.0)**
 ##### Highlighted Changes
 * New Free App Icon “Bold White” — We’ve introduced a fresh app icon that’s bolder than a banana trying to impress its peel. It’s so white that it makes snowflakes jealous. Plus, it’s free! 
 * Locations Sync Between Devices — Your weather preferences are now more synchronized than a perfectly choreographed rain dance.
@@ -33,7 +35,8 @@ Remember, our app is like a weather wizard’s spellbook—full of surprises, en
 
 <br>
 
-### <a name="changelog"></a>[`Latest`](#changelog)
+### `Previously`
+
 # <a name="1.0.4"></a>**[Version 1.0.4](#1.0.4)**
 Happy Holidays! The only new item in this update is a Christmas 2023 app icon for subscribed users. I have some great new updates in the works that I think you'll really love. Best of wishes to you and your families during this holiday season, and I'm praying for a wonderful new year for all of you.
 
@@ -45,7 +48,6 @@ How much did Santa pay for his sleigh?
 ...
 Nothing. It was on the house.
 
-### `Previously`
 # <a name="1.0.3"></a>**[Version 1.0.3](#1.0.3)**
 Ahoy, app aficionados! This update is jam-packed with fixes and tweaks. Let's dive into the changes:
 
