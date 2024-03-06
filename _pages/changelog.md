@@ -9,6 +9,22 @@ include_in_header: true
 <!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="1.1.1"></a>**[Version 1.1.1](#1.1.1)**
+Not much new here, just a little housecleaning!
+
+# Bug Fixes #
+* Fixed a bug with the next-hour precipitation chart. It would always show extremely light rain, even during a storm. Our attempts to change the weather failed, so we'll return to showing you what's happening out your window.
+* Fixed a bug with the tip jar where the image would load and then load again. 
+
+What's Forrest Gump's password? 
+...
+1forrest1
+
+Thanks for using Rainy Skies! We'll have new features for you...when they're ready. Grace and peace!
+
+<br>
+
+### `Previously`
 # <a name="1.1.0"></a>**[Version 1.1.0](#1.1.0)**
 ##### Highlighted Changes
 * New Free App Icon “Bold White” — We’ve introduced a fresh app icon that’s bolder than a banana trying to impress its peel. It’s so white that it makes snowflakes jealous. Plus, it’s free! 
@@ -32,10 +48,6 @@ include_in_header: true
 Why did the scarecrow win an award? Because he was outstanding in his field!
 
 Remember, our app is like a weather wizard’s spellbook—full of surprises, enchantments, and occasional hiccups. Enjoy the updates, and may your forecasts be as accurate as a cat predicting rain (which is to say, not very). Happy weather-watching!
-
-<br>
-
-### `Previously`
 
 # <a name="1.0.4"></a>**[Version 1.0.4](#1.0.4)**
 Happy Holidays! The only new item in this update is a Christmas 2023 app icon for subscribed users. I have some great new updates in the works that I think you'll really love. Best of wishes to you and your families during this holiday season, and I'm praying for a wonderful new year for all of you.
