@@ -6,13 +6,40 @@ include_in_header: true
 
 <br>
 
-<!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
+### <a name="roadmap"></a>[`Roadmap`](#roadmap)
+# <a name="1.2.0"></a>**[Version 1.2.0](#1.2.0)**
+##### Highlighted Changes
+* A revamped hourly data type picker. That's a really long name for the menu that lets you pick what kind of hourly data you're looking at, like "temperature" or "precipitation chance". That whole menu has been given a makeover to make it quicker to use and totally customizable. (Silver subscription required)
+* You might notice a little toggle next to the minutely precipitation chart the next time its raining. You can now see the percent chance of rain over the next hour too! (Silver subscription required)
+* Current weather has been given a bit of a glow-up. You can now swipe on the mini data blocks to see more. Press and hold on them to get to the settings menu and customize away. (Silver subscription required)
+* Notifications! Maybe that idea doesn't excite you yet, but give it a whirl. It has probably been one of the most difficult features to get right, but also one that's been far more useful than even I would have thought! You can get summary notifications for today and tomorrows weather, and alerts when severe weather is entering your area. (Silver subscription required)
+
+##### Other New Features
+* If you come back to the app after a while, we'll deposit you at the top of the weather screen.
+* After you've been using the app for a bit, we'll ask how you're feeling about the app. You have no idea how much a good review means.
+
+##### Bug Fixes
+* Adjusted how weather alerts look on the weather screen so they'll show their full title more often.
+* It felt a bit odd that the icon for snow was a snowflake, but the icon for rain was clouds and rain. Now the icon for snow is clouds and snow to match.
+* When you'd open weather alert information, there was a weird visual glitch at the bottom of the web view. That's been polished off.
+* The bar on the side would show "cloudy" (gray color), even when it was mostly sunny outside. Fixed!
+
+##### What's Next
+It's summer time where I am. That means vacations and new iOS announcement season. The next update of Rainy Skies will aim for the fall when the next version of iOS releases. I hope you all have a safe and blessed summer (or whatever season you are in)!
+
+And, finally...
+
+What’s a ghost’s favorite summer treat?
+
+...
+
+I-scream!
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="1.1.1"></a>**[Version 1.1.1](#1.1.1)**
 Not much new here, just a little housecleaning!
 
-# Bug Fixes #
+##### Bug Fixes
 * Fixed a bug with the next-hour precipitation chart. It would always show extremely light rain, even during a storm. Our attempts to change the weather failed, so we'll return to showing you what's happening out your window.
 * Fixed a bug with the tip jar where the image would load and then load again. 
 
