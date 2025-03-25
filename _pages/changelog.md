@@ -6,9 +6,65 @@ include_in_header: true
 
 <br>
 
-<!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
+### <a name="roadmap"></a>[`Roadmap`](#roadmap)
+Up next on the roadmap are a number of small tweaks and any bug fixes that are found necessary from the big 2.0 release.
+
+After that, I'd like to get started on historical weather.
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="2.0.0"></a>**[Version 2.0.0](#2.0.0)**
+##### Highlighted Changes
+* Radar! You can now view precipitation radar and cloud cover on a map. Tap the "Radar" tab at the bottom (or on the side on iPad) to see it. If precipitation is on the way, you'll see a mini-radar view right alongside the next-hour precipitation chart.
+  * There are a number of color schemes and options in the new "Radar" settings screen.
+  * If you have a free account, you'll only see the current radar. On Silver, you can see past and future radar (up to 30 minutes in the future).
+* Apple Watch app! You can see much of the same information—but no radar, yet :( —in the new Apple Watch app. The same refresh rate rules apply on the Apple Watch app as they do in the main app. Many complications and widgets were added as well.
+
+##### Other New Features
+* The daily row precipitation icon is now a snowflake if the precipitation that's coming is...snow. That was probably pretty obvious, huh.
+* When you select a new location, the app will now dismiss the locations screen.
+* Added a little sunrise or sunset image next to the sunrise / sunset time.
+* When you send a bug report e-mail, logs from the app will now be added to help with debugging any issues you may have.
+* The locations group in the iPad sidebar is now expandable and collapsible.
+* You'll notice some new animations in the app.
+* You can now change the default accent color of the app in Settings -> App Display.
+* Hourly bar colors are now customizable in Settings -> Hourly Weather -> Condition Colors.
+* Tapping and holding on hourly weather provides a shortcut to Hourly Weather settings and a glossary popup.
+* Daily Settings now let you use daytime-only temperature (you can also change this on the main weather screen next to Daily Weather).
+* You can now hide the navigation and tab bar when you scroll down by turning on the option in Settings -> App Display.
+* Added a new "Silver" icon for Silver subscribers.
+* Widgets are now properly accentable on iOS 18+.
+* Settings is now in the tab bar / sidebar.
+* Various other little text and styling adjustments.
+
+##### Bug Fixes
+* The "Review the App" button in Settings now takes you to the App Store review screen because the pop-up wouldn't work in some cases.
+* Fixed deleting the current location.
+* Fixed the daily weather for the current day. When expanded, it will no longer include hours from tomorrow.
+* If pulling weather fails in widgets, it will now use cached data.
+* Fixed geocoding not working in some cases because we did it too frequently.
+* Updated wording of "Pro Icons" to "Silver Subscription Icons" on the app icon screen.
+* Fixed share screen crashing.
+
+##### And Finally...
+Why are libraries so tall? 
+...
+...
+...
+Because they have many stories. (☞ﾟ∀ﾟ)☞
+
+# <a name="1.2.3"></a>**[Version 1.2.3](#1.2.3)**
+##### Highlighted Changes
+* Updated with support for the iPhone 16 line and dark icons on iOS 18.
+
+# <a name="1.2.2"></a>**[Version 1.2.2](#1.2.2)**
+##### Bug Fixes
+* Reduces duplicate weather alert notifications even further.
+
+# <a name="1.2.1"></a>**[Version 1.2.1](#1.2.1)**
+##### Bug Fixes
+* Fixed the notification tip continually reappearing, even after you've dismissed it (fingers crossed)
+* Fixed weather alerts disappearing and reappearing, and duplicate notifications being sent. Really sorry about that one!
+
 # <a name="1.2.0"></a>**[Version 1.2.0](#1.2.0)**
 ##### Highlighted Changes
 * A revamped hourly data type picker. That's a really long name for the menu that lets you pick what kind of hourly data you're looking at, like "temperature" or "precipitation chance". That whole menu has been given a makeover to make it quicker to use and totally customizable. (Silver subscription required)
