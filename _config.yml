@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://1drv.ms/f/s!Aspl4-arwzoWgYAe7jrVpvC1_6a4lQ?e=rxmcEL # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://1drv.ms/u/c/163ac3abe6e365ca/ESMuzlkOk5lGsBWcXWfA20MBk541TAdmWJkC566iyRCQjA?e=HVUCKM # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -44,9 +44,21 @@ features                                  :
     description                           : Don't wait...get your weather as fast as possible. We use smart caching to show you your weather as fast as possible.
     fontawesome_icon_name                 : bolt
 
-  - title                                 : Widgets!
-    description                           : Small, Medium, and Large widgets, plus iPad lock screen widgets...and more to come!
+  - title                                 : Widgets
+    description                           : Widgets for every size and need...and more to come!
     fontawesome_icon_name                 : wand-magic-sparkles
+
+  - title                                 : Radar
+    description                           : See the current precipitation radar and cloud cover. With a silver subscription, you can see the future!
+    fontawesome_icon_name                 : radar
+
+  - title                                 : Watch App
+    description                           : Check the forecast from your wrist with our Apple Watch app. We have widgets and complication support too!
+    fontawesome_icon_name                 : clock
+
+  - title                                 : Customization Galore
+    description                           : We've got customization options for every part of the app. Make it yours!
+    fontawesome_icon_name                 : sliders
 
   - title                                 : More on the Way
     description                           : Rainy Skies is actively being developed and more features are coming!
