@@ -12,6 +12,30 @@ Up next on the roadmap are a number of small tweaks and any bug fixes that are f
 After that, I'd like to get started on historical weather.
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="2.0.1"></a>**[Version 2.0.1](#2.0.1)**
+##### Highlighted Changes
+* Apple Watch circular and corner complications now include color.
+* Locations are now one line (no country). There is a new setting to include the country as well.
+
+##### New Features
+* Added a share link to Settings.
+
+##### Bug Fixes
+* Fixed loading the app on iPad in landscape would show the portrait UI.
+* Settings -> App Display -> Accent Color is now sorted alphabetically.
+
+##### Other Changes
+* Updated analytics (I believe that privacy is a fundamental user-right, and _all_ of my analytics are 100% anonymous. Your data will never be sold. See the privacy policy for more details.)
+* Updated dependencies.
+* Replaced the Threads link in Settings -> About with a Bluesky link.
+
+##### And Finally...
+Why did the chicken cross the playground? 
+...
+...
+...
+To get to the other slide. (☞ﾟ∀ﾟ)☞
+
 # <a name="2.0.0"></a>**[Version 2.0.0](#2.0.0)**
 ##### Highlighted Changes
 * Radar! You can now view precipitation radar and cloud cover on a map. Tap the "Radar" tab at the bottom (or on the side on iPad) to see it. If precipitation is on the way, you'll see a mini-radar view right alongside the next-hour precipitation chart.
