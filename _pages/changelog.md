@@ -7,9 +7,12 @@ include_in_header: true
 <br>
 
 ### <a name="roadmap"></a>[`Roadmap`](#roadmap)
-Up next on the roadmap are a number of small tweaks and any bug fixes that are found necessary from the big 2.0 release.
-
-After that, I'd like to get started on historical weather.
+* Historical Weather
+* Improved subscription screen
+* Improved customer center for subscribed users
+* More / Less Detailed Hourly View
+* Default zoom level for radar
+* Ability to set opacity for radar and cloud cover separately
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="2.0.1"></a>**[Version 2.0.1](#2.0.1)**
