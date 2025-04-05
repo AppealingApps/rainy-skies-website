@@ -14,6 +14,29 @@ include_in_header: true
 * Default zoom level for radar
 * Ability to set opacity for radar and cloud cover separately
 
+### <a name="upcoming"></a>[`Upcoming`](#upcoming)
+# <a name="2.0.2"></a>**[Version 2.0.2](#2.0.2)**
+##### Highlighted Changes
+* Enabled Mac Catalyst! I haven't tweaked Rainy Skies much for it yet, but it should work a bit better than it used to.
+* A new icon for Easter 2025!
+
+##### New Features
+* Added a Customer Center in Settings->Help and if you're a subscriber on the "You're a Member" cell.
+* A brand new paywall for non-subscribers.
+* Added some extra info to help e-mails to help me debug any issues you may be having.
+* If the app hasn't been used for more than 5 minutes, coming back should now bring you back to the weather screen.
+
+##### Bug Fixes
+* Fixed the app store link in the share button on the Settings screen.
+* Fixed the Radar screen's legend having a funky layout. In this case, less funk is actually a good thing.
+
+##### And Finally...
+What do you call a boomerang that won't come back?
+...
+...
+...
+A stick. (☞ﾟ∀ﾟ)☞
+
 ### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="2.0.1"></a>**[Version 2.0.1](#2.0.1)**
 ##### Highlighted Changes
