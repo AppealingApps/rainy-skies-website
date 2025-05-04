@@ -12,7 +12,7 @@ presskit_download_link                    : https://1drv.ms/u/c/163ac3abe6e365ca
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free, or $1/month, $5/year (USD)          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free, or $1/month, $5.99/year (USD)          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Beautiful Weather at a Glance
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -68,7 +68,7 @@ features                                  :
     fontawesome_icon_name                 : scale-balanced
 
   - title                                 : Subscribe for Great Features
-    description                           : Get faster refreshes, forecast widgets, and more for $1/month or $5/year (USD)
+    description                           : Get faster refreshes, forecast widgets, and more for $1/month or $5.99/year (USD)
     fontawesome_icon_name                 : money-bill-1
 
 
