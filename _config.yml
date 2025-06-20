@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
     
   - title                                 : Lightning Quick
-    description                           : Don't wait...get your weather as fast as possible. We use smart caching to show you your weather as fast as possible.
+    description                           : Don't wait...get your weather now. We use smart caching to show you your weather as fast as possible.
     fontawesome_icon_name                 : bolt
 
   - title                                 : Widgets
@@ -59,6 +59,10 @@ features                                  :
     description                           : We've got customization options for every part of the app. Make it yours!
     fontawesome_icon_name                 : sliders
 
+  - title                                 : History Screen
+    description                           : See your weather history for the past 30 days, including high and low temperatures, precipitation, and more.
+    fontawesome_icon_name                 : clock-rotate-left
+
   - title                                 : More on the Way
     description                           : Rainy Skies is actively being developed and more features are coming!
     fontawesome_icon_name                 : plus
@@ -68,7 +72,7 @@ features                                  :
     fontawesome_icon_name                 : scale-balanced
 
   - title                                 : Subscribe for Great Features
-    description                           : Get faster refreshes, forecast widgets, and more for $1/month or $5.99/year (USD)
+    description                           : Get faster refreshes, forecast widgets, future radar, history screen, customization options, and more for $1/month or $5.99/year (USD)
     fontawesome_icon_name                 : money-bill-1
 
 
