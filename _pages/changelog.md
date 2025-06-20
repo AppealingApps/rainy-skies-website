@@ -7,12 +7,45 @@ include_in_header: true
 <br>
 
 ### <a name="roadmap"></a>[`Roadmap`](#roadmap)
-* Historical Weather
-* More / Less Detailed Hourly View
-* Default zoom level for radar
-* Ability to set opacity for radar and cloud cover separately
+* iOS 26 and Liquid Glass support
 
-<!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
+### <a name="upcoming"></a>[`Upcoming`](#upcoming)
+# <a name="2.1.0"></a>**[Version 2.1.0](#2.1.0)**
+##### Highlighted Changes
+* You can now select to see every hour in the hourly bar dropdown menu, and there is a new setting in "Hourly" settings to make that the default
+* Added "Last 30 Days" weather screen, accessible from a button on "Weather" screen daily weather (Silver only)
+* Added "Location Info" screen, accessible from the (i) button on the Locations screen containing a map of the location and monthly statistics
+
+##### New Features
+* Added a setting in "Current Weather" settings to not show the mini radar view during precipitation
+* Added zoom buttons to the radar screen
+* Added a default zoom setting in "Radar" settings
+* Added separate settings for radar and satellite opacity in "Radar" settings
+* Added a setting (on by default if the "Differentiate without Color" accessibility option is enabled, otherwise off by default) to show a condition icon in the "Weather" screen hourly bar
+* Added a "Sync" status to the Settings screen
+* Added an "Hourly" setting to change the precipitation percentage where snow or rain is shown in the hourly bar
+
+##### Bug Fixes
+* Improved hiding the top and bottom "Weather" screen bars on scroll
+* Fixed some colors in the app not using the selected accent color in "App Display" settings
+* Fixed the layout of the "Help" screen
+* Unified how the Settings screens handle free users
+* Maybe fixed the Watch app resetting constantly
+* Fixed widgets not showing based on precipitation chance
+
+##### Other
+* Updated dependencies
+* Improved reliability of fetching weather
+* Updated the "About the Author" screen
+* Updated some Settings layouts
+
+##### And Finally...
+What kind of music should you listen to while fishing? 
+...
+...
+...
+...
+Something catchy! (☞ﾟ∀ﾟ)☞
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="2.0.2"></a>**[Version 2.0.2](#2.0.2)**
