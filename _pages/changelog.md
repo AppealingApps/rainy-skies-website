@@ -9,7 +9,9 @@ include_in_header: true
 ### <a name="roadmap"></a>[`Roadmap`](#roadmap)
 * iOS 26 and Liquid Glass support
 
-### <a name="upcoming"></a>[`Upcoming`](#upcoming)
+<!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
+
+### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="2.1.0"></a>**[Version 2.1.0](#2.1.0)**
 ##### Highlighted Changes
 * You can now select to see every hour in the hourly bar dropdown menu, and there is a new setting in "Hourly" settings to make that the default
@@ -47,7 +49,6 @@ What kind of music should you listen to while fishing?
 ...
 Something catchy! (☞ﾟ∀ﾟ)☞
 
-### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="2.0.2"></a>**[Version 2.0.2](#2.0.2)**
 ##### Highlighted Changes
 * Enabled Mac Catalyst! I haven't tweaked Rainy Skies much for it yet, but it should work a bit better than it used to.
