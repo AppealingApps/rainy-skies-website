@@ -12,6 +12,10 @@ include_in_header: true
 <!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="2.1.1"></a>**[Version 2.1.1](#2.1.1)**
+##### Bug Fixes
+* Fixed "Location Info" button on iPads
+
 # <a name="2.1.0"></a>**[Version 2.1.0](#2.1.0)**
 ##### Highlighted Changes
 * You can now select to see every hour in the hourly bar dropdown menu, and there is a new setting in "Hourly" settings to make that the default
