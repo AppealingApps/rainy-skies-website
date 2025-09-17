@@ -12,6 +12,40 @@ include_in_header: true
 <!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="2.2.0"></a>**[Version 2.2.0](#2.2.0)**
+##### Highlighted Changes
+* Updated for OS 26 including an all-new Liquid Glass tab bar (on iPhone), a new icon, and more
+* Chat with Rainy Skies! On an Apple Intelligence-enabled device, you can open the chat window and ask questions about the upcoming weather
+
+##### New Features
+* Alerts: Weather alerts now look a little nicer
+* App (Daily): Added an AI-generated summary of a day's weather (beta, disabled by default)
+* App (Daily): Updated the default day weather summary to be more accurate and consider snowfall
+* Notifications: Added a setting to show notifications using only daytime (7am–7pm) data
+* Notifications: Added a setting to show the morning notification using "rest of day" data
+* Radar: You can now tap the radar map to show and hide UI
+* Settings (Daily): Added a setting to show daily weather dates in MM/DD format instead of weekday
+* Settings (Hourly): Added a setting to change when the hourly bar thinks it's cloudy, and tweaked the default from 60% clouds to 70%
+* Settings (Sync): Added many more options to sync settings, and many new settings are synced by default
+* Settings (Units): New settings to tweak precipitation amount, visibility, wind speed, and air pressure units
+* Widgets: Very minor UI updates
+
+##### Bug Fixes
+* App: Fixed location updates happening too frequently
+* App: Fixed weather data not updating when you open the app or Radar screen
+* App (History): The history screen's daily data now shows more days per swipe on iPad and Mac (instead of three regardless of device)
+* App (iPad + Mac): Fixed the weather pane and sidebar widths and allow them to be more flexible
+* App (Mac): Fixed the hourly data type picker
+* App (UI): Fixed backgrounds in the app to look the same
+* Widgets: Fixed the "Requires Silver Subscription" error
+
+##### And Finally...
+Why did the boy do his homework on the plane? 
+...
+...
+...
+He wanted a higher education! (☞ﾟ∀ﾟ)☞
+
 # <a name="2.1.1"></a>**[Version 2.1.1](#2.1.1)**
 ##### Bug Fixes
 * Fixed "Location Info" button on iPads
