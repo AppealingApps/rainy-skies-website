@@ -6,7 +6,11 @@ include_in_header: true
 
 <br>
 
-<!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
+### <a name="roadmap"></a>[`Roadmap`](#roadmap)
+* Precipitation Notifications
+* Updated Weather Alert screen UI
+* UI Update - moving around some tab bar items
+* Watch App Fixes
 
 
 <!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
