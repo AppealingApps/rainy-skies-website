@@ -6,12 +6,36 @@ include_in_header: true
 
 <br>
 
-### <a name="roadmap"></a>[`Roadmap`](#roadmap)
-* iOS 26 and Liquid Glass support
+<!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
+
 
 <!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
+# <a name="2.4.0"></a>**[Version 2.4.0](#2.4.0)**
+##### Highlighted Changes
+* The triumphant return of radar data. It's maybe a little less fancy, but hey, we gotta start somewhere.
+* Weather alerts are now sourced directly from the National Weather Service (in the US). The weather alert screen and notifications should be greatly improved.
+* Daily summary notifications are now more customizable! Add wind, UV Index, and other information into the notification always, or when they reach a certain threshold.
+* Speaking of thresholds, get notified when the *current* weather crosses certain thresholds too. Get notified when the UV Index is above 7, or when wind gusts hit 40mph, or when the feels like temperature is sub-zero.
+
+##### Bug Fixes
+* App (UI): The weather screen sometimes failing to update bug should be fixed.
+* App (Daily): Day summaries should now have the correct precipitation amounts.
+
+# <a name="2.3.0"></a>**[Version 2.3.0](#2.3.0)**
+##### Highlighted Changes
+* Radar has been removed. The radar data provider I was using has discontinued its API. I am actively looking for a new service.
+* A new set of hourly, daily, and hourly + daily chart widgets have been added!
+
+##### New Features
+* App (Alerts): You can now share weather alerts
+* Widgets: Precipitation chance won't show up unless it's at least 10%
+
+##### Bug Fixes
+* App (Hourly): Fixed hourly wind data having two decimal places. Now it uses whole numbers.
+* App (UI): Updated the last refreshed time at the bottom of the weather screen to also note the next update time
+
 # <a name="2.2.0"></a>**[Version 2.2.0](#2.2.0)**
 ##### Highlighted Changes
 * Updated for OS 26 including an all-new Liquid Glass tab bar (on iPhone), a new icon, and more
