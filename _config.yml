@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : wand-magic-sparkles
 
   - title                                 : Radar
-    description                           : See the current precipitation radar and cloud cover. With a silver subscription, you can see the future!
+    description                           : See the current precipitation radar and cloud cover.
     fontawesome_icon_name                 : map
 
   - title                                 : Watch App
@@ -63,6 +63,10 @@ features                                  :
     description                           : See your weather history for the past 30 days, including high and low temperatures, precipitation, and more.
     fontawesome_icon_name                 : clock-rotate-left
 
+  - title                                 : Air Quality and Pollen
+    description                           : Silver users see current and future air quality and pollen information
+    fontawesome_icon_name                 : cloud
+
   - title                                 : More on the Way
     description                           : Rainy Skies is actively being developed and more features are coming!
     fontawesome_icon_name                 : plus
@@ -72,7 +76,7 @@ features                                  :
     fontawesome_icon_name                 : scale-balanced
 
   - title                                 : Subscribe for Great Features
-    description                           : Get faster refreshes, forecast widgets, future radar, history screen, customization options, and more for $1/month or $5.99/year (USD)
+    description                           : Get faster refreshes, forecast widgets, air quality and pollen information, history screen, customization options, and more for $1/month or $5.99/year (USD)
     fontawesome_icon_name                 : money-bill-1
 
 

@@ -6,14 +6,43 @@ include_in_header: true
 
 <br>
 
-### <a name="roadmap"></a>[`Roadmap`](#roadmap)
-* Precipitation Notifications
-* Updated Weather Alert screen UI
-* UI Update - moving around some tab bar items
-* Watch App Fixes
+<!-- ### <a name="roadmap"></a>[`Roadmap`](#roadmap) -->
 
 
-<!-- ### <a name="upcoming"></a>[`Upcoming`](#upcoming) -->
+### <a name="upcoming"></a>[`Upcoming`](#upcoming)
+# <a name="2.5.0"></a>**[Version 2.5.0](#2.5.0)**
+##### Highlighted Changes
+* Add Air Quality Index and Pollen information into the app, widgets, and threshold notifications.
+* Daily summary notifications can now include additional data points (like wind speed) if they exceed a given threshold.
+* "Home Locations" - now if you don't use your active location, you can set a home location for your widgets and notifications.
+* Precipitation notifications are here! Get notifications when precipitation is on the way and when it will end.
+* Updated the tab bar to be customizable. The "History" and "Ask Rainy Skies" pages are now in "More" by default.
+
+##### New Features
+* App: Update the minimum version to 26.1.
+* App (AI): Massive improvements to the "Ask Rainy Skies" chat feature. It now generally works and provides much more coherent information.
+* App (Alerts): Updated weather alert date formatting.
+* App (Current): Update the current weather data views to display the most "abnormal" data first by default. You can change this in Settings.
+* App (History): Unify the history screen temperature and precipitation chart.
+* App (Hourly): The detail view now has sort options for the different data types, including alphabetical, abnormality, and custom sort ordering.
+* App (Notifications): Thresholds are now editable by tapping them. No more deleting and re-creating thresholds!
+* Notifications: Threshold notifications now display the time the threshold ends. For example, "The temperature will be above 90 degrees until 7pm."
+* Notifications: Weather alert notifications that update a previous alert now show "Updated: " on the notification.
+* Widgets: The daily chart widget will now use the precipitation chance for the rest of the day (for Today's weather) instead of the whole day's precipitation chance.
+* Widgets: The forecast widget will now dynamically show a minute-by-minute chart of precipitation data if precipitation is coming.
+
+##### Bug Fixes
+* App: Properly clean the cache on startup
+* App (Current): Update the layout of current weather data views to be spaced more consistently.
+* App (Hourly): Fix precipitation hourly text using the wrong units.
+* App (Location): Small fixes to the location info chart precipitation text.
+* App (Mac): Remove the unused title bar.
+* Notifications: Improved cleanup of stale weather alert notifications.
+* Watch: Fixed the watch app resetting the current screen every so often.
+* Watch: UI tweaks.
+* Widgets: Daily chart widgets now use a better scale to prevent clipping.
+* Widgets: Fixed how often the widget uses a gray background because it think it's currently cloudy.
+* Widgets: Widgets that display the alert name now correctly only displays the alert name.
 
 ### <a name="changelog"></a>[`Latest`](#changelog)
 # <a name="2.4.0"></a>**[Version 2.4.0](#2.4.0)**
